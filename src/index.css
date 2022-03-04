@@ -1,0 +1,14 @@
+body {
+  padding: 50px;
+  background-color: orchid;
+  padding-bottom: 500px;
+}
+
+h1 {
+  color: #fff;
+}
+
+p {
+  padding: 10px;
+  border-radius: 15px;
+}
